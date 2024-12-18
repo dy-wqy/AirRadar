@@ -1,7 +1,7 @@
 # AirRadar
 
-This repo is the implementation of our manuscript entitled [AirRadar: Inferring Nationwide Air Quality in
-China with Deep Neural Networks]. The code is based on Pytorch 2.1.0, and tested on Ubuntu 16.04 with a NVIDIA GeForce RTX 2080Ti GPU with 12 GB memory. 
+This repo is the implementation of our manuscript entitled AirRadar: Inferring Nationwide Air Quality in
+China with Deep Neural Networks. The code is based on Pytorch 2.1.0, and tested on Ubuntu 16.04 with a NVIDIA GeForce RTX 2080Ti GPU with 12 GB memory. 
 
 In this study, we present a novel deep network named AirRadar to collectively infer nationwide air quality in China.
 
